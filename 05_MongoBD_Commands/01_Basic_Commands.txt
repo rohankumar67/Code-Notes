@@ -1,0 +1,5 @@
+> use rohan => It help to create or use database in mongo
+
+> show dbs => It can help to show all the database in mongod
+
+> show collections => It can help to show all the collections in database
